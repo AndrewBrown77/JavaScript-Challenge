@@ -13,6 +13,7 @@ const collectEmployees = function() {
   let firstName = prompt("what is the first name?")
   let lastName = prompt("what is the last name?")
   let salary = prompt("what is the salary?")
+  
 
   let employeedetails = {
     firstname: firstName ,
