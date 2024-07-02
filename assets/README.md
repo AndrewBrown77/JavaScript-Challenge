@@ -19,6 +19,6 @@ THEN I am prompted to add a new employee
 WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
 
- The repository lacked multiple descriptive commit messages (at least 5 but more is considered standard), and the README file was incomplete, missing a project description, screenshot, and a link to the deployed application. These elements are vital for clarity and usability for both reviewers and potential users.
+link to deployed website : https://andrewbrown77.github.io/JavaScript-Challenge/
 
-Keep pushing forward, Andrew! It’s a lot to take in so you’ll get there if you practice. And remember to reach out to your instructional staff, tutor, and askBCS whenever you need assistance with challenges to help you make progress.
+![alt text](<Screenshot 2024-07-02 151950.png>) screen shot
